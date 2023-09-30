@@ -1,0 +1,16 @@
+﻿'CodSoft Task 2.exe' (Win32): Loaded 'C:\Users\Students PC\source\repos\CodSoft Task 2\Debug\CodSoft Task 2.exe'. Symbols loaded.
+'CodSoft Task 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'CodSoft Task 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'CodSoft Task 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'CodSoft Task 2.exe' (Win32): Loaded 'C:\Program Files\Avast Software\Avast\x86\aswhook.dll'. 
+'CodSoft Task 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'CodSoft Task 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'CodSoft Task 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'CodSoft Task 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x1be0 has exited with code 0 (0x0).
+'CodSoft Task 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'CodSoft Task 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'CodSoft Task 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x32cc has exited with code 0 (0x0).
+The thread 0x3fe8 has exited with code 0 (0x0).
+The program '[15980] CodSoft Task 2.exe' has exited with code 0 (0x0).
